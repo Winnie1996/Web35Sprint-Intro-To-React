@@ -68,7 +68,7 @@ const Character = (props) => {
   //   }
 
   function refreshPokemon() {
-    window.location.reload(false);
+    window.location.reload();
   }
 
   let imgsrc = "";
