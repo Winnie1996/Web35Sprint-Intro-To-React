@@ -1,4 +1,4 @@
-# Intro to React Sprint Challenge
+Intro to React Sprint Challenge
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
@@ -29,12 +29,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+   Allows us to reuse components and write code thats easier without a bunch of lines over and over again.
 
 1. Describe component state.
+   Component state is used for how things behaves and renders.
 
 1. Describe props.
+   Props are properties that contains objects that can be passed around in React
 
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+   Side effects are delayed effects. Once everything loads it grabs the information and displays them depending on how the code is written. Kind of like
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
